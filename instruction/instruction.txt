@@ -1,0 +1,13 @@
+// All quality video
+https://s2.clgt.link/hls/ext/4919b6026e839c40e9a9e57c57234bd7.m3u8
+
+// Quality 360
+https://s2.clgt.link/hls/m3u8/4919b6026e839c40e9a9e57c57234bd7_0360.m3u8
+		// Open this file will have: 
+{
+https://vt1.vnflare.com/hls/ts/4919b6026e839c40e9a9e57c57234bd7/4919b6026e839c40e9a9e57c57234bd7_0360_0000.html
+#EXTINF:6.506500,
+https://vt1.vnflare.com/hls/ts/4919b6026e839c40e9a9e57c57234bd7/4919b6026e839c40e9a9e57c57234bd7_0360_0001.html
+#EXTINF:12.220544,
+https://vt1.vnflare.com/hls/ts/4919b6026e839c40e9a9e57c57234bd7/4919b6026e839c40e9a9e57c57234bd7_0360_0002.html
+} // Change https://vt1.vnflare.com to https://s2.clgt.link

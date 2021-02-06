@@ -1,0 +1,23 @@
+{
+  "name": "Anime47",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "axios": "^0.21.1",
+    "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "form-data": "^3.0.0",
+    "m3u8-to-mp4": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "slugify": "^1.4.6",
+    "urlencode": "^1.1.0",
+    "uuid": "^8.3.2",
+    "winston": "^3.3.3"
+  },
+  "scripts": {
+    "start": "node index"
+  },
+  "type": "module"
+}
