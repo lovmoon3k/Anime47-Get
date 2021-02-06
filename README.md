@@ -10,3 +10,8 @@ END_PAGE=5
 DELAY_TIME=10000
 # Retry send request if fail when request anime detail, first watch anime detail, specific episode of anime 
 RE_SEND_REQUEST=10
+
+# Make sure download ffmpeg and set to environment variable
+
+Run
+yarn run start or npm run start
